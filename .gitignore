@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+server.log
+server.err
+data/
+openai_config.py

@@ -1,0 +1,19 @@
+OPENAI_API_KEY = "sk-proj-0IXU3k89hdacJQ0-W_Wm31Q0AEg3tt820ZTBXzDPCXenocTg0BvTEUyBnrojxIbl6qB-bLbvTaT3BLbkFJR1FQvGwVTazS-tDxVrvh18-1_1GkRAUuL8f5-qyF8RQEtCkP1W08s-XLv1s-QuwBztCdTU6-YA"
+OPENAI_MODEL = "gpt-4o-mini"
+OPENAI_IMAGE_MODEL = "gpt-image-2"
+OCR_SPACE_API_KEY = ""
+GOOGLE_CLIENT_ID = "your-google-oauth-client-id.apps.googleusercontent.com"
+GEMINI_API_KEY = "AQ.Ab8RN6IlWvUdIvEr25P_g8nu171emSdp5J-xn2Ik4z4vs4IbpA"
+GEMINI_MODEL = "gemini-3.1-flash"
+ANTHROPIC_API_KEY = "your-anthropic-api-key-here"
+ANTHROPIC_MODEL = "claude-sonnet-4-20250514"
+APP_LOGIN_USERNAME = "admin"
+APP_LOGIN_PASSWORD = "admin123"
+APP_SESSION_SECRET = "change-this-session-secret"
+SMTP_HOST = ""
+SMTP_PORT = 587
+SMTP_USERNAME = ""
+SMTP_PASSWORD = ""
+SMTP_FROM_EMAIL = ""
+SMTP_USE_TLS = True
+
